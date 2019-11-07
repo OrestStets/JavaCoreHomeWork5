@@ -1,5 +1,3 @@
-import com.sun.org.apache.xalan.internal.xsltc.compiler.util.MatchGenerator;
-
 public class Human {
 
     String name;
@@ -8,7 +6,7 @@ public class Human {
 
     public Human (String name, String lastName, int age){
         this.name = name;
-        this.lastName =lastName;
+        this.lastName = lastName;
         this.age = age;
     }
 

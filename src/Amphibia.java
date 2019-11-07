@@ -1,15 +1,15 @@
 public class Amphibia {
 
-    void eat (){
+    void eat(){
         System.out.println("I love to eat flies");
     }
-    void sleep (){
+    void sleep(){
         System.out.println("I love to sleep till breakfast");
     }
-    void walk (){
+    void walk(){
         System.out.println("I like to walk in rainy day");
     }
-    void swim (){
+    void swim(){
         System.out.println("When it hot outside - i prefer to swim ");
     }
 
